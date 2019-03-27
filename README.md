@@ -1,6 +1,6 @@
 # shiro_demo2
 
-open with eclipse
+open with eclipse   用eclipse打开
 
 1. 建立数据库shiro,执行sql/shiro.sql建立5表
 2. 更改src/applicationContext.xml 数据库密码
